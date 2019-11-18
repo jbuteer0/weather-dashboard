@@ -1,0 +1,9 @@
+html body{
+    height: 100vh;
+}
+.title{
+    padding: .5%;
+    height: 20%;
+    color: white;
+    background: #363636
+}
